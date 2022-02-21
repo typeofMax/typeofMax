@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> Maxim Bogdanov </h2> 
+<h2 align="center"> Maxim Bogdanov </h2> 
 
 ## About me
 Whenever there will be text
