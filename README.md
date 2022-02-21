@@ -1,12 +1,9 @@
-## Maxim Bogdanov
----
+<h2 style="text-align: center;"> Maxim Bogdanov </h2> 
+
+## About me
+Whenever there will be text
 ### Information
 - **Languages** - JavaScript, TypeScript, HTML, CSS
-- **Technologies** - ReactJS, NextJS, SCSS, SASS, Bootstrap, Git version control, Gulp, WebPack
----
-### About me
-
-High motivated Frontend lover and Backend interest developer :blush:
-***
+- **Technologies** - ReactJS, NextJS, Bootstrap, Git vesion control
 ### Contact me
 - **Telegram** - [@oneMB](https://t.me/oneMB)
