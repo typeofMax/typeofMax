@@ -2,7 +2,7 @@
 ---
 ### Information
 - **Languages** - JavaScript, TypeScript, HTML, CSS
-- **Technologies** - ReactJS, NextJS, Bootstrap, Git vesion control
+- **Technologies** - ReactJS, NextJS, SCSS, SASS, Bootstrap, Git version control, Gulp, WebPack
 ---
 ### About me
 
