@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋, my name is Max </h1> 
 
 ## About me
+
 Whenever there will be text
 
 Skills: NEXTjs / REACT / JS / HTML / CSS / SCSS / Git / Gulp / Webpack
