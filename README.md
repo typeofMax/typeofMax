@@ -6,7 +6,6 @@ Whenever there will be text
 
 Skills: NEXTjs / REACT / JS / HTML / CSS / SCSS / Git / Gulp / Webpack
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: [@oneMB](https://t.me/oneMB) 
 
 
