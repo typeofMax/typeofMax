@@ -4,7 +4,7 @@
 
 Whenever there will be text
 
-Skills: NEXTjs / REACT / JS / HTML / CSS / SCSS / Git / Gulp / Webpack
+Skills:  ReactJS / TypeScript / JavaScript / HTML / CSS / SCSS / Git / Gulp / Webpack
 
 - 📫 How to reach me: [@oneMB](https://t.me/oneMB) 
 
