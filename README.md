@@ -11,5 +11,4 @@ Skills:  ReactJS / TypeScript / JavaScript / HTML / CSS / SCSS / Git / Gulp / We
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/typeofMax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://ru.stackoverflow.com/users/480613/maxim)  
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typeofMax&layout=compact)
