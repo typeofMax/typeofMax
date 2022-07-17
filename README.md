@@ -6,7 +6,7 @@ Whenever there will be text
 
 Skills:  ReactJS / TypeScript / JavaScript / HTML / CSS / SCSS / Git / Gulp / Webpack
 
-- 📫 How to reach me: [@oneMB](https://t.me/typeofMax) 
+- 📫 How to reach me: [@typeofMax](https://t.me/typeofMax) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/typeofMax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://ru.stackoverflow.com/users/480613/maxim)  
