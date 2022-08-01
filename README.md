@@ -11,7 +11,7 @@
 </div>
 <h1 align="center"> Hey there 👋, I'am Max </h1> 
 
-### :man_technologist: О себе:
+### :man_technologist: About me:
 
 >I was introduced to Web development in 9th grade, but then I studied and worked in a different direction. Now I have made a conscious decision to work and develop in Web development and I know 100% that for me this is the job that they say "The best job is a paid hobby"
 
