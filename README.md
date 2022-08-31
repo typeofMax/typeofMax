@@ -7,7 +7,6 @@
   <a href="https://ru.stackoverflow.com/users/480613/maxim" target="_blank" ref="noreferrer">
 	<img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Youtube Badge"/>
 	</a>
-	
 	</div>
 </div>
 <h1 align="center"> Hey there 👋, I'am Max </h1> 
