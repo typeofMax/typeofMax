@@ -11,10 +11,6 @@
 </div>
 <h1 align="center"> Hey there 👋, I'am Max </h1> 
 
-### :man_technologist: About me:
-
->I was introduced to Web development in college, but then I studied and worked in a different direction. Now I have made a conscious decision to work and develop in Web development and I know 100% that for me this is the job that they say "The best job is a paid hobby"
-
 - :telescope: Looking for an opportunity to start a career and grow as a Frontend Developer
 - :zap: I take training courses on Udemy and do Pet projects.
 - :seedling: In my spare time, I read articles, watch news from the Frontend world, and participate in the StackOverflow community. :blush:.
