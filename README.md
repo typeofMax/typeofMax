@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e4791jp2gperdin0r3mw83wob7mkjk9e336txllw6kf&rid=giphy.gif&ct=s" width="100"/>
 	<div id="badges">
-  <a href="https://t.me/typeofMax">
+<!--   <a href="https://t.me/typeofMax">
 	<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
-	</a>
+	</a> -->
   <a href="https://ru.stackoverflow.com/users/480613/maxim" target="_blank" ref="noreferrer">
 	<img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Youtube Badge"/>
 	</a>
