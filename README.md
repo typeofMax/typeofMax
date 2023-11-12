@@ -11,9 +11,8 @@
 </div>
 <h1 align="center"> Hey there 👋, I'am Max </h1> 
 
-- :telescope: Looking for an opportunity to start a career and grow as a Frontend Developer
-- :zap: I take training courses on Udemy and do Pet projects.
-- :seedling: In my spare time, I read articles, watch news from the Frontend world, and participate in the StackOverflow community. :blush:.
+- :zap: I do pet projects.
+- :seedling: In my spare time, I read articles, watch news from the programming world, and participate in the StackOverflow community. :blush:.
 - 📫 How to reach me: <a href="https://t.me/typeofMax">
 	<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
